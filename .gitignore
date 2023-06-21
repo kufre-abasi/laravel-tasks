@@ -11,3 +11,6 @@ npm-debug.log
 .env
 .env.production
 /.azure
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
